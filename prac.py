@@ -7,6 +7,7 @@ BLACK = (0, 0, 0)
  
  
 #### What's good cam
+## hey man
 # Call this function so the Pygame library can initialize itself
 pygame.init()
  
