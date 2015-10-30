@@ -5,6 +5,8 @@ import pygame
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
  
+ 
+#### What's good cam
 # Call this function so the Pygame library can initialize itself
 pygame.init()
  
